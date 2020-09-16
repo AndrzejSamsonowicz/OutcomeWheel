@@ -4,39 +4,39 @@
     {
       "name": "BUSINESS GROWTH",
       "children": [
-        {"name": "Improved client satisfaction","size": 310},
-        {"name": "Expand and diversify services","size": 320},
-        {"name": "Improve win rate","size": 190},
-        {"name": "Increase recognition as industry leaders","size": 430}
+        {"name": "Improved client satisfaction","size": 29},
+        {"name": "Expand and diversify services","size": 30},
+        {"name": "Improve win rate","size": 17},
+        {"name": "Increase recognition as industry leaders","size": 41}
       ]
     },
     {
       "name": "IMPROVED SUSTAINABILITY",
       "children": [
-        {"name": "Design considering environmental impact", "size": 400},
-        {"name": "Exceed performance requirements", "size": 320},
-        {"name": "Reduce material usage", "size": 220},
-        {"name": "Reduce/ remove emissions", "size": 250},
-        {"name": "Increase project life expectancy and resiliency ", "size": 480}
+        {"name": "Design considering environmental impact", "size": 40},
+        {"name": "Exceed performance requirements", "size": 32},
+        {"name": "Reduce material usage", "size": 22},
+        {"name": "Reduce/ remove emissions", "size": 25},
+        {"name": "Increase project life expectancy and resiliency ", "size": 48}
       ]
     },
     {
       "name": "RISK REDUCTION",
       "children": [
-        {"name": "Increase stakeholder buy-in", "size": 280},
-        {"name": "Improve project forecastingt", "size": 290},
-        {"name": "Manage complexity", "size": 180},
-        {"name": "Reduce errors and rework", "size": 250},
-        {"name": "Meet customer and design requirements", "size": 380}
+        {"name": "Increase stakeholder buy-in", "size": 28},
+        {"name": "Improve project forecastingt", "size": 29},
+        {"name": "Manage complexity", "size": 18},
+        {"name": "Reduce errors and rework", "size": 25},
+        {"name": "Meet customer and design requirements", "size": 38}
       ]
     },
     {
       "name": "OPERATIONAL EFFICIENCY",
       "children": [
-        {"name": "Improve team collaboration", "size": 270},
-        {"name": "Improve data handover", "size": 220},
-        {"name": "Reduce overall design time", "size": 270},
-        {"name": "Increase workload capacity", "size": 270}
+        {"name": "Improve team collaboration", "size": 27},
+        {"name": "Improve data handover", "size": 22},
+        {"name": "Reduce overall design time", "size": 27},
+        {"name": "Increase workload capacity", "size": 27}
       ]
     }
   ]
