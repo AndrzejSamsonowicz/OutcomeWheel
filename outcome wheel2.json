@@ -29,6 +29,16 @@
         {"name": "Reduce errors and rework", "size": 25},
         {"name": "Meet customer and design requirements", "size": 38}
       ]
+    },
+    {
+      "name": "OPERATIONAL EFFICIENCY",
+      "children": [
+        {"name": "Improve team collaboration", "size": 27}
+        {"name": "Improve data handover", "size": 22}
+        {"name": "Reduce overall design time", "size": 27}
+        {"name": "Increase workload capacity", "size": 27}
+      ]
+
     }
   ]
 }
