@@ -1,13 +1,13 @@
 {
-  "name": "Industry Outcomes - Building Design"
+  "name": "Industry Outcomes - Building Design",
   "children": [
     {
-      "name": "BUSINESS GROWTH"
+      "name": "BUSINESS GROWTH",
       "children": [
         {"name": "Improved client satisfaction","size": 1},
         {"name": "Expand and diversify services","size": 1},
         {"name": "Improve win rate","size": 1},
-        {"name": "Increase recognition as industry leaders","size": 1},
+        {"name": "Increase recognition as industry leaders","size": 1}
 
       ]
     }
