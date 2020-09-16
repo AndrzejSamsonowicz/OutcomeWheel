@@ -1,0 +1,34 @@
+{
+  "name": "Industry Outcomes - Building Design",
+  "children": [
+    {
+      "name": "BUSINESS GROWTH",
+      "children": [
+        {"name": "Improved client satisfaction","size": 29},
+        {"name": "Expand and diversify services","size": 30},
+        {"name": "Improve win rate","size": 17},
+        {"name": "Increase recognition as industry leaders","size": 41}
+      ]
+    },
+    {
+      "name": "IMPROVED SUSTAINABILITY",
+      "children": [
+        {"name": "Design considering environmental impact", "size": 40},
+        {"name": "Exceed performance requirements", "size": 32},
+        {"name": "Reduce material usage", "size": 22},
+        {"name": "Reduce/ remove emissions", "size": 25},
+        {"name": "Increase project life expectancy and resiliency ", "size": 48}
+      ]
+    },
+    {
+      "name": "RISK REDUCTION",
+      "children": [
+        {"name": "Increase stakeholder buy-in", "size": 28},
+        {"name": "Improve project forecastingt", "size": 29},
+        {"name": "Manage complexity", "size": 18},
+        {"name": "Reduce errors and rework", "size": 25},
+        {"name": "Meet customer and design requirements", "size": 38}
+      ]
+    }
+  ]
+}
