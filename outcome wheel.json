@@ -1,21 +1,14 @@
 {
-  "name": "Industry Outcomes - Building Desgin",
-  "children": [
-    {
-      "name": "Business Growth",
-      "children": [
-        {"name": "Improve Client Satisfaction"},
-        {"name": "Expand and diversify services"},
-        {"name": "Improve win rate"},
-        {"name": "Increase recognition as industry leaders"}]
-      "name": "Improved Sustainability",
-      "children": [
-        {"name": "Design considering environmental impact"},
-        {"name": "Exceed performance requirements"},
-        {"name": "Reduce material usage"},
-        {"name": "Reduce/ remove emissions"},
-        {"name": "Increase project life expectancy and resiliency "},
-        ]
-    }
-  ]
-}
+	"name": "Outcome Wheel - Building Industry",
+	"children": [
+	{
+		"name": "BUSINESS GROWTH",
+		"children": [		
+		{"name": "Improve client satisfaction"},
+		{"name": "Expand and diversify services"},
+		{"name": "Improve win rate"},
+		{"name": "Increase recognition as industry leaders"},
+		]
+	}
+	]
+}	
