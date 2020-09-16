@@ -8,8 +8,28 @@
         {"name": "Expand and diversify services","size": 1},
         {"name": "Improve win rate","size": 1},
         {"name": "Increase recognition as industry leaders","size": 1}
-
       ]
     }
+    {
+      "name": "IMPROVED SUSTAINABILITY",
+      "children": [
+        {"name": "Design considering environmental impact", "size": 1},
+        {"name": "Exceed performance requirements", "size": 1},
+        {"name": "Reduce material usage", "size": 1},
+        {"name": "Reduce/ remove emissions", "size": 1},
+        {"name": "Increase project life expectancy and resiliency ", "size": 1},
+      ]
+    }
+    {
+      "name": "RISK REDUCTION",
+      "children": [
+        {"name": "Increase stakeholder buy-in", "size": 1},
+        {"name": "Improve project forecastingt", "size": 1},
+        {"name": "Manage complexity", "size": 1},
+        {"name": "Reduce errors and rework", "size": 1},
+        {"name": "Meet customer and design requirements", "size": 1}
+      ]
+    }
+
   ]
 }
