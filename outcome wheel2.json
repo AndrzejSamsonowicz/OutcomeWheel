@@ -23,7 +23,21 @@
             },
             {"name": "Capabilities",
               "children":[
-                {"name": "Model Authoring Model Co-authoring...","size": 1}
+                {"name": "Model Authoring","size": 1},
+                {"name": "Model Co-authoring","size": 1},
+                {"name": "Cost Management","size": 1},
+                {"name": "Schedule Management","size": 1},
+                {"name": "Insights","size": 1},
+                {"name": "Beautiful Drawings","size": 1},
+                {"name": "Virtual Reality","size": 1},
+                {"name": "Immersive Design","size": 1},
+                {"name": "Rendering","size": 1},
+                {"name": "Animation","size": 1},
+                {"name": "3D Printing","size": 1},
+                {"name": "3D Scanning","size": 1},
+                {"name": "Building Performance","size": 1},
+                {"name": "Energy Analysis","size": 1}
+                
               ]
             }    
           ]
