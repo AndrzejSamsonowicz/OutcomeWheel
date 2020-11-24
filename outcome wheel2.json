@@ -7,11 +7,15 @@
         {"name": "Improved client satisfaction",
             "children":[
             {"name": "Description",
-              "children":[{"name": "Good customer experience can be def...","size": 1}]
-            }
+              "children":[
+                {"name": "Good customer experience can be def...","size": 1}
+              ]
+            },
             {"name": "Pressures Adressed", 
-              "children":[{"name": "Pressure on design firms to maintain...","size": 1}]
-            }
+              "children":[
+                {"name": "Pressure on design firms to maintain...","size": 1}
+              ]
+            },
             {"name": "Value Matrics","size": 1},
             {"name": "Capabilities","size": 1}
             ]
