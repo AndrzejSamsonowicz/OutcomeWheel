@@ -2,7 +2,7 @@
   "name": "Industry Outcomes - Building Design",
   "children": [
     {
-      "name": "BUSINESS GROWTH","size": 1,
+      "name": "BUSINESS GROWTH","size": 0.25,
       "children": [
         {"name": "Improved client satisfaction","size": 1,
             "children":[
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "IMPROVED SUSTAINABILITY","size": 1,
+      "name": "IMPROVED SUSTAINABILITY","size": 0.25,
       "children": [
         {"name": "Design considering environmental impact","size": 1},
         {"name": "Exceed performance requirements","size": 1},
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "name": "RISK REDUCTION","size": 1,
+      "name": "RISK REDUCTION","size": 0.25,
       "children": [
         {"name": "Increase stakeholder buy-in","size": 1},
         {"name": "Improve project forecastingt","size": 1},
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "OPERATIONAL EFFICIENCY","size": 1,
+      "name": "OPERATIONAL EFFICIENCY","size": 0.25,
       "children": [
         {"name": "Improve team collaboration","size": 1},
         {"name": "Improve data handover","size": 1},
