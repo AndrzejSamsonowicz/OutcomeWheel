@@ -4,9 +4,8 @@
     {
       "name": "BUSINESS GROWTH",
       "children": [
-        {
-          "name": "Improved client satisfaction",
-          "children":[
+        {"name": "Improved client satisfaction",
+            "children":[
             {"name": "Description","size": 1},
             {"name": "Pressures Adressed", "size": 1},
             {"name": "Value Matrics","size": 1},
