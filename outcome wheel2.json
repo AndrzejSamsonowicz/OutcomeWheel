@@ -12,11 +12,11 @@
             {"name": "Capabilities","size": 1}
           ]
         },
-        {"name": "Expand and diversify services","size": 1},
-        {"name": "Improve win rate","size": 1},
-        {"name": "Increase recognition as industry leader","size": 1},
-        {"name": "Attract and retain top talent","size": 1},
-        {"name": "Improve design quality","size": 1}
+        {"name": "Expand and diversify services","size": 2},
+        {"name": "Improve win rate","size": 2},
+        {"name": "Increase recognition as industry leader","size": 2},
+        {"name": "Attract and retain top talent","size": 2},
+        {"name": "Improve design quality","size": 2}
 
       ]
     },
