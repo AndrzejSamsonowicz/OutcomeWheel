@@ -1,107 +1,195 @@
 {
-    "name": "TSS",
-    "size": 1,
+    "name": "TSS", 
+    "size": 1, 
     "children": [
         {
-            "name": "Stage 1",
-            "size": 1,
+            "name": "Stage 1", 
+            "size": 1, 
             "children": [
                 {
-                    "name": "Executive Briefing",
+                    "name": "Channel ", 
                     "size": 1
-                },
+                }, 
                 {
-                    "name": "Virtual Customer Discovery",
-                    "size": 1
-                },
-                {
-                    "name": "Greenhat",
-                    "size": 1
-                },
-                {
-                    "name": "Channel ",
-                    "size": 1
-                },
-                {
-                    "name": "Engagement Planning",
-                    "size": 1,
+                    "name": "Whitespace", 
+                    "size": 1, 
                     "children": [
                         {
-                            "name": "What we need?",
-                            "size": 1,
+                            "name": "What we need?", 
+                            "size": 1, 
                             "children": [
                                 {
-                                    "name": "Opportunity snapshot",
+                                    "name": "Account history", 
                                     "size": 1
-                                },
+                                }, 
                                 {
-                                    "name": "Customer snapshot",
+                                    "name": "Introduction to customer snapshot", 
                                     "size": 1
-                                },
+                                }, 
                                 {
-                                    "name": "Reseller of record",
+                                    "name": "Customer snapshot", 
                                     "size": 1
-                                },
+                                }, 
                                 {
-                                    "name": "Reseller experience",
+                                    "name": "Internal/external stakeholders", 
                                     "size": 1
-                                },
+                                }, 
                                 {
-                                    "name": "Engagement history ATC/support",
+                                    "name": "Reseller of record", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Opportunity overview ", 
+                                    "size": 1
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "What we provide:", 
+                            "size": 1, 
+                            "children": [
+                                {
+                                    "name": "Expand opportunity", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Qualify opportunity", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Validate Insight Map", 
                                     "size": 1
                                 }
                             ]
                         }
                     ]
-                },
+                }, 
                 {
-                    "name": "Whitespace",
-                    "size": 1,
+                    "name": "Executive Briefing", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Engagement Planning", 
+                    "size": 1, 
                     "children": [
                         {
-                            "name": "What we need?",
-                            "size": 1,
+                            "name": "What we need?", 
+                            "size": 1, 
                             "children": [
                                 {
-                                    "name": "Account history",
+                                    "name": "Reseller experience", 
                                     "size": 1
-                                },
+                                }, 
                                 {
-                                    "name": "Reseller of record",
+                                    "name": "Customer snapshot", 
                                     "size": 1
-                                },
+                                }, 
                                 {
-                                    "name": "Internal/external stakeholders",
+                                    "name": "Reseller of record", 
                                     "size": 1
-                                },
+                                }, 
                                 {
-                                    "name": "Opportunity overview ",
+                                    "name": "Opportunity snapshot", 
                                     "size": 1
-                                },
+                                }, 
                                 {
-                                    "name": "Introduction to customer snapshot",
-                                    "size": 1
-                                },
-                                {
-                                    "name": "Customer snapshot",
+                                    "name": "Engagement history ATC/support", 
                                     "size": 1
                                 }
                             ]
-                        },
+                        }, 
                         {
-                            "name": "What we provide:",
-                            "size": 1,
+                            "name": "What we provide:", 
+                            "size": 1, 
                             "children": [
                                 {
-                                    "name": "Validate Insight Map",
+                                    "name": "Partner definition", 
                                     "size": 1
-                                },
+                                }, 
                                 {
-                                    "name": "Expand opportunity",
+                                    "name": "Establish contact with partners ", 
                                     "size": 1
-                                },
+                                }, 
                                 {
-                                    "name": "Qualify opportunity",
+                                    "name": "High level roadmap", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Define roles", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Discover partner capabilities", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Define engagement level", 
+                                    "size": 1
+                                }
+                            ]
+                        }
+                    ]
+                }, 
+                {
+                    "name": "Virtual Customer Discovery", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Greenhat", 
+                    "size": 1, 
+                    "children": [
+                        {
+                            "name": "What we need?", 
+                            "size": 1, 
+                            "children": [
+                                {
+                                    "name": "Customer annual report", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Account history", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Introduction to customer snapshot", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Customer snapshot", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Internal/external stakeholders", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Reseller of record", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Opportunity review", 
+                                    "size": 1
+                                }
+                            ]
+                        }, 
+                        {
+                            "name": "What we provide:", 
+                            "size": 1, 
+                            "children": [
+                                {
+                                    "name": "Move account forward", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Ownership od actions", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Define action items", 
+                                    "size": 1
+                                }, 
+                                {
+                                    "name": "Prioritise action items", 
                                     "size": 1
                                 }
                             ]
@@ -109,90 +197,80 @@
                     ]
                 }
             ]
-        },
+        }, 
         {
-            "name": "Stage 2",
-            "size": 1,
+            "name": "Stage 4", 
+            "size": 1, 
             "children": [
                 {
-                    "name": "On-Site Customer Discovery",
+                    "name": "Technical Partner Check-in", 
                     "size": 1
-                },
+                }, 
                 {
-                    "name": "ADSK Awareness",
-                    "size": 1
-                },
-                {
-                    "name": "Partner Co-ordination",
-                    "size": 1
-                },
-                {
-                    "name": "On-line Survey & Report-out",
-                    "size": 1
-                },
-                {
-                    "name": "Customer Meeting Prep Call",
-                    "size": 1
-                },
-                {
-                    "name": "BSM/BID Engagement",
+                    "name": "Customer Check-in", 
                     "size": 1
                 }
             ]
-        },
+        }, 
         {
-            "name": "Stage 3",
-            "size": 1,
+            "name": "Stage 2", 
+            "size": 1, 
             "children": [
                 {
-                    "name": "Pilot Definition",
+                    "name": "On-Site Customer Discovery", 
                     "size": 1
-                },
+                }, 
                 {
-                    "name": "Support Customer Success Plan & Implementation Strategy",
+                    "name": "On-line Survey & Report-out", 
                     "size": 1
-                },
+                }, 
                 {
-                    "name": "Product Presentation",
+                    "name": "Customer Meeting Prep Call", 
                     "size": 1
-                },
+                }, 
                 {
-                    "name": "Workflow Presentation",
+                    "name": "ADSK Awareness", 
                     "size": 1
-                },
+                }, 
                 {
-                    "name": "Blackhat",
+                    "name": "BSM/BID Engagement", 
                     "size": 1
-                },
+                }, 
                 {
-                    "name": "Partner Co-ordination & Support in Prep",
+                    "name": "Partner Co-ordination", 
                     "size": 1
                 }
             ]
-        },
+        }, 
         {
-            "name": "Stage 4",
-            "size": 1,
+            "name": "Stage 3", 
+            "size": 1, 
             "children": [
                 {
-                    "name": "Technical Partner Check-in",
+                    "name": "Pilot Definition", 
                     "size": 1
-                },
+                }, 
                 {
-                    "name": "Customer Check-in",
+                    "name": "Support Customer Success Plan & Implementation Strategy", 
                     "size": 1
-                }
-            ]
-        },
-        {
-            "name": "Stage 5",
-            "size": 1,
-            "children": [
+                }, 
                 {
-                    "name": "Account Review",
+                    "name": "Partner Co-ordination & Support in Prep", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Workflow Presentation", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Blackhat", 
+                    "size": 1
+                }, 
+                {
+                    "name": "Product Presentation", 
                     "size": 1
                 }
             ]
         }
     ]
-}    
+}
