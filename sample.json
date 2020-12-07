@@ -1,3 +1,4 @@
+[
     {
         "name": "TSS",
         "size": 1,
@@ -32,31 +33,33 @@
                         "children": [
                             {
                                 "name": "What we need?",
-                                "size": 1
-                            },
-                            {
-                                "name": "Account history",
-                                "size": 1
-                            },
-                            {
-                                "name": "Reseller of record",
-                                "size": 1
-                            },
-                            {
-                                "name": "Internal/external stakeholders",
-                                "size": 1
-                            },
-                            {
-                                "name": "Opportunity overview ",
-                                "size": 1
-                            },
-                            {
-                                "name": "Introduction to customer snapshot",
-                                "size": 1
-                            },
-                            {
-                                "name": "Customer snapshot",
-                                "size": 1
+                                "size": 1,
+                                "children": [
+                                    {
+                                        "name": "Account history",
+                                        "size": 1
+                                    },
+                                    {
+                                        "name": "Reseller of record",
+                                        "size": 1
+                                    },
+                                    {
+                                        "name": "Internal/external stakeholders",
+                                        "size": 1
+                                    },
+                                    {
+                                        "name": "Opportunity overview ",
+                                        "size": 1
+                                    },
+                                    {
+                                        "name": "Introduction to customer snapshot",
+                                        "size": 1
+                                    },
+                                    {
+                                        "name": "Customer snapshot",
+                                        "size": 1
+                                    }
+                                ]
                             }
                         ]
                     }
@@ -148,3 +151,4 @@
             }
         ]
     }
+]
