@@ -1,266 +1,113 @@
 [
-     {
-          "name": "Stage 1",
-          "size": 1,
-          "children": [
-               {
-                    "name": "Executive Briefing",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Virtual Customer Discovery",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Greenhat",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Channel ",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Engagement Planning",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Whitespace",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "What we need?",
-                              "size": 1
-                         },
-                         {
-                              "name": "Account history",
-                              "size": 1
-                         },
-                         {
-                              "name": "Reseller of record",
-                              "size": 1
-                         },
-                         {
-                              "name": "Internal/external stakeholders",
-                              "size": 1
-                         },
-                         {
-                              "name": "Opportunity overview ",
-                              "size": 1
-                         },
-                         {
-                              "name": "Introduction to customer snapshot",
-                              "size": 1
-                         },
-                         {
-                              "name": "Customer snapshot",
-                              "size": 1
-                         }
-                    ]
-               }
-          ]
-     },
-     {
-          "name": "Stage 2",
-          "size": 1,
-          "children": [
-               {
-                    "name": "On-Site Customer Discovery",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "ADSK Awareness",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Partner Co-ordination",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "On-line Survey & Report-out",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Customer Meeting Prep Call",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "BSM/BID Engagement",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               }
-          ]
-     },
-     {
-          "name": "Stage 3",
-          "size": 1,
-          "children": [
-               {
-                    "name": "Pilot Definition",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Support Customer Success Plan & Implementation Strategy",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Product Presentation",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Workflow Presentation",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Blackhat",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Partner Co-ordination & Support in Prep",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               }
-          ]
-     },
-     {
-          "name": "Stage 4",
-          "size": 1,
-          "children": [
-               {
-                    "name": "Technical Partner Check-in",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               },
-               {
-                    "name": "Customer Check-in",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               }
-          ]
-     },
-     {
-          "name": "Stage 5",
-          "size": 1,
-          "children": [
-               {
-                    "name": "Account Review",
-                    "size": 1,
-                    "children": [
-                         {
-                              "name": "",
-                              "size": 1
-                         }
-                    ]
-               }
-          ]
-     }
+    {
+        "name": "Stage 1",
+        "children": [
+            {
+                "name": "Executive Briefing"
+            },
+            {
+                "name": "Virtual Customer Discovery"
+            },
+            {
+                "name": "Greenhat"
+            },
+            {
+                "name": "Channel "
+            },
+            {
+                "name": "Engagement Planning"
+            },
+            {
+                "name": "Whitespace",
+                "children": [
+                    {
+                        "name": "What we need?"
+                    },
+                    {
+                        "name": "Account history"
+                    },
+                    {
+                        "name": "Reseller of record"
+                    },
+                    {
+                        "name": "Internal/external stakeholders"
+                    },
+                    {
+                        "name": "Opportunity overview "
+                    },
+                    {
+                        "name": "Introduction to customer snapshot"
+                    },
+                    {
+                        "name": "Customer snapshot"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Stage 2",
+        "children": [
+            {
+                "name": "On-Site Customer Discovery"
+            },
+            {
+                "name": "ADSK Awareness"
+            },
+            {
+                "name": "Partner Co-ordination"
+            },
+            {
+                "name": "On-line Survey & Report-out"
+            },
+            {
+                "name": "Customer Meeting Prep Call"
+            },
+            {
+                "name": "BSM/BID Engagement"
+            }
+        ]
+    },
+    {
+        "name": "Stage 3",
+        "children": [
+            {
+                "name": "Pilot Definition"
+            },
+            {
+                "name": "Support Customer Success Plan & Implementation Strategy"
+            },
+            {
+                "name": "Product Presentation"
+            },
+            {
+                "name": "Workflow Presentation"
+            },
+            {
+                "name": "Blackhat"
+            },
+            {
+                "name": "Partner Co-ordination & Support in Prep"
+            }
+        ]
+    },
+    {
+        "name": "Stage 4",
+        "children": [
+            {
+                "name": "Technical Partner Check-in"
+            },
+            {
+                "name": "Customer Check-in"
+            }
+        ]
+    },
+    {
+        "name": "Stage 5",
+        "children": [
+            {
+                "name": "Account Review"
+            }
+        ]
+    }
 ]
