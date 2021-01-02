@@ -43,7 +43,7 @@
                             "name": "What we provide:",
                             "children": [
                                 {
-                                    "name": "Move account forward"
+                                    "name": "Move account forward", 
                                 },
                                 {
                                     "name": "Ownership od actions"
@@ -68,19 +68,19 @@
                             "name": "What we need?",
                             "children": [
                                 {
-                                    "name": "Opportunity snapshot"
+                                    "name": "Opportunity snapshot", "size": 5
                                 },
                                 {
-                                    "name": "Customer snapshot"
+                                    "name": "Customer snapshot", "size": 5
                                 },
                                 {
-                                    "name": "Reseller of record"
+                                    "name": "Reseller of record", "size": 5
                                 },
                                 {
-                                    "name": "Reseller experience"
+                                    "name": "Reseller experience", "size": 5
                                 },
                                 {
-                                    "name": "Engagement history ATC/support"
+                                    "name": "Engagement history ATC/support", "size": 5
                                 }
                             ]
                         },
@@ -88,22 +88,22 @@
                             "name": "What we provide:",
                             "children": [
                                 {
-                                    "name": "High level roadmap"
+                                    "name": "High level roadmap", "size": 5
                                 },
                                 {
-                                    "name": "Partner definition"
+                                    "name": "Partner definition", "size": 5
                                 },
                                 {
-                                    "name": "Define roles"
+                                    "name": "Define roles", "size": 5
                                 },
                                 {
-                                    "name": "Establish contact with partners "
+                                    "name": "Establish contact with partners ", "size": 5
                                 },
                                 {
-                                    "name": "Discover partner capabilities"
+                                    "name": "Discover partner capabilities", "size": 5
                                 },
                                 {
-                                    "name": "Define engagement level"
+                                    "name": "Define engagement level", "size": 5
                                 }
                             ]
                         }
@@ -116,22 +116,22 @@
                             "name": "What we need?",
                             "children": [
                                 {
-                                    "name": "Account history"
+                                    "name": "Account history", "size": 5
                                 },
                                 {
-                                    "name": "Reseller of record"
+                                    "name": "Reseller of record", "size": 5
                                 },
                                 {
-                                    "name": "Internal/external stakeholders"
+                                    "name": "Internal/external stakeholders", "size": 5
                                 },
                                 {
-                                    "name": "Opportunity overview "
+                                    "name": "Opportunity overview", "size": 5
                                 },
                                 {
-                                    "name": "Introduction to customer snapshot"
+                                    "name": "Introduction to customer snapshot", "size": 5
                                 },
                                 {
-                                    "name": "Customer snapshot"
+                                    "name": "Customer snapshot", "size": 5
                                 }
                             ]
                         },
@@ -139,13 +139,13 @@
                             "name": "What we provide:",
                             "children": [
                                 {
-                                    "name": "Validate Insight Map"
+                                    "name": "Validate Insight Map", "size": 5
                                 },
                                 {
-                                    "name": "Expand opportunity"
+                                    "name": "Expand opportunity", "size": 5
                                 },
                                 {
-                                    "name": "Qualify opportunity"
+                                    "name": "Qualify opportunity", "size": 5
                                 }
                             ]
                         }
@@ -157,22 +157,22 @@
             "name": "Stage 2",
             "children": [
                 {
-                    "name": "On-Site Customer Discovery"
+                    "name": "On-Site Customer Discovery", "size": 5
                 },
                 {
-                    "name": "ADSK Awareness"
+                    "name": "ADSK Awareness", "size": 5
                 },
                 {
-                    "name": "Partner Co-ordination"
+                    "name": "Partner Co-ordination", "size": 5
                 },
                 {
-                    "name": "On-line Survey & Report-out"
+                    "name": "On-line Survey & Report-out", "size": 5
                 },
                 {
-                    "name": "Customer Meeting Prep Call"
+                    "name": "Customer Meeting Prep Call", "size": 5
                 },
                 {
-                    "name": "BSM/BID Engagement"
+                    "name": "BSM/BID Engagement", "size": 5
                 }
             ]
         },
@@ -180,22 +180,22 @@
             "name": "Stage 3",
             "children": [
                 {
-                    "name": "Pilot Definition"
+                    "name": "Pilot Definition", "size": 5
                 },
                 {
-                    "name": "Support Customer Success Plan & Implementation Strategy"
+                    "name": "Support Customer Success Plan & Implementation Strategy", "size": 5
                 },
                 {
-                    "name": "Product Presentation"
+                    "name": "Product Presentation", "size": 5
                 },
                 {
-                    "name": "Workflow Presentation"
+                    "name": "Workflow Presentation", "size": 5
                 },
                 {
-                    "name": "Blackhat"
+                    "name": "Blackhat", "size": 5
                 },
                 {
-                    "name": "Partner Co-ordination & Support in Prep"
+                    "name": "Partner Co-ordination & Support in Prep", "size": 5
                 }
             ]
         },
@@ -203,10 +203,10 @@
             "name": "Stage 4",
             "children": [
                 {
-                    "name": "Technical Partner Check-in"
+                    "name": "Technical Partner Check-in", "size": 5
                 },
                 {
-                    "name": "Customer Check-in"
+                    "name": "Customer Check-in", "size": 5
                 }
             ]
         }
