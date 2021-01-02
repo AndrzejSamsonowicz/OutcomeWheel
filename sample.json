@@ -17,25 +17,25 @@
                             "name": "What we need?",
                             "children": [
                                 {
-                                    "name": "Account history"
+                                    "name": "Account history", "size": 5
                                 },
                                 {
-                                    "name": "Reseller of record"
+                                    "name": "Reseller of record", "size": 5
                                 },
                                 {
-                                    "name": "Internal/external stakeholders"
+                                    "name": "Internal/external stakeholders", "size": 5
                                 },
                                 {
-                                    "name": "Opportunity review"
+                                    "name": "Opportunity review", "size": 5
                                 },
                                 {
-                                    "name": "Customer annual report"
+                                    "name": "Customer annual report", "size": 5
                                 },
                                 {
-                                    "name": "Customer snapshot"
+                                    "name": "Customer snapshot", "size": 5
                                 },
                                 {
-                                    "name": "Introduction to customer snapshot"
+                                    "name": "Introduction to customer snapshot", "size": 5
                                 }
                             ]
                         },
