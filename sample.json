@@ -43,16 +43,16 @@
                             "name": "What we provide:",
                             "children": [
                                 {
-                                    "name": "Move account forward", 
+                                    "name": "Move account forward", "size": 5 
                                 },
                                 {
-                                    "name": "Ownership od actions"
+                                    "name": "Ownership od actions", "size": 5 
                                 },
                                 {
-                                    "name": "Prioritise action items"
+                                    "name": "Prioritise action items", "size": 5 
                                 },
                                 {
-                                    "name": "Define action items"
+                                    "name": "Define action items", "size": 5 
                                 }
                             ]
                         }
