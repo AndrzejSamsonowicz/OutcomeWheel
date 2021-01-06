@@ -2,26 +2,26 @@
   "name": "Industry Outcomes - Building Design",
   "children": [
     {
-      "name": "BUSINESS GROWTH","size": 0.25,
+      "name": "BUSINESS GROWTH",
       "children": [
-        {"name": "Improved client satisfaction","size": 1,
+        {"name": "Improved client satisfaction",
             "children":[
-            {"name": "Description","size": 1,
+            {"name": "Description",
               "children":[
                 {"name": "Good customer experience can be def...","size": 1}
               ]
             },
-            {"name": "Pressures Adressed","size": 1, 
+            {"name": "Pressures Adressed",
               "children":[
                 {"name": "Pressure on design firms to maintain...","size": 1}
               ]
             },
-            {"name": "Value Matrics","size": 1,
+            {"name": "Value Matrics",
               "children":[
                 {"name": "Increase in CSAT score","size": 1}
               ]
             },
-            {"name": "Capabilities","size": 1,
+            {"name": "Capabilities",
               "children":[
                 {"name": "Model Authoring","size": 1},
                 {"name": "Model Co-authoring","size": 1},
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "IMPROVED SUSTAINABILITY","size": 0.25,
+      "name": "IMPROVED SUSTAINABILITY",
       "children": [
         {"name": "Design considering environmental impact","size": 1},
         {"name": "Exceed performance requirements","size": 1},
@@ -61,7 +61,7 @@
       ]
     },
     {
-      "name": "RISK REDUCTION","size": 0.25,
+      "name": "RISK REDUCTION",
       "children": [
         {"name": "Increase stakeholder buy-in","size": 1},
         {"name": "Improve project forecastingt","size": 1},
@@ -71,7 +71,7 @@
       ]
     },
     {
-      "name": "OPERATIONAL EFFICIENCY","size": 0.25,
+      "name": "OPERATIONAL EFFICIENCY",
       "children": [
         {"name": "Improve team collaboration","size": 1},
         {"name": "Improve data handover","size": 1},
