@@ -5,10 +5,10 @@
             "name": "Stage 1",
             "children": [
                 {
-                    "name": "Executive Briefing",
+                    "name": "Executive Briefing", "size": 5
                 },
                 {
-                    "name": "Virtual Customer Discovery",
+                    "name": "Virtual Customer Discovery", "size": 5
                 },
                 {
                     "name": "Greenhat",
