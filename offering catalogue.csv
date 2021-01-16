@@ -1,22 +1,8 @@
-StageNo,Contribution
-Stage 1,Executive Briefing?
-Stage 1,Virtual Customer Discovery
-Stage 1,Greenhat
-Stage 1,Channel 
-Stage 1,Engagement Planning
-Stage 1,Whitespace?
-Stage 2,On-Site Customer Discovery
-Stage 2,ADSK Awareness
-Stage 2,Partner Co-ordination
-Stage 2,On-line Survey & Report-out
-Stage 2,Customer Meeting Prep Call
-Stage 2,BSM/BID Engagement
-Stage 3,Pilot Definition?
-Stage 3,Support Customer Success Plan & Implementation Strategy
-Stage 3,Product Presentation
-Stage 3,Workflow Presentation
-Stage 3,Blackhat
-Stage 3,Partner Co-ordination & Support in Prep
-Stage 4,Technical Partner Check-in
-Stage 4,Customer Check-in
-Stage 5,Account Review?
+id;text
+1;Lorem ipsum dolor sit amet, consectetur adipiscing eli
+2;sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
+3;Ut enim ad minim veniam
+4;quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat
+5;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur
+6;Excepteur sint occaecat cupidatat non proident
+7;sunt in culpa qui officia deserunt mollit anim id est laborum.
